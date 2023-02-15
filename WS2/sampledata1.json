@@ -1,0 +1,24 @@
+{
+    "Names":{
+       "Peoples":[
+          {
+             "name":"Flynn Coleman",
+             "age":"28",
+             "company":"KIDGREASE",
+             "address":"536 Boardwalk, Enetai, Texas, 9705"
+          },
+          {
+            "name":"Kenya Ashley",
+            "age":"32",
+            "company":"VISASIA",
+            "address":"276 Church Lane, Rushford, Idaho, 8297"
+          },
+          {
+            "name":"Cross Hooper",
+            "age":"31",
+            "company":"ISOPOP",
+            "address":"663 Olive Street, Delshire, West Virginia, 6834"
+          }
+       ]
+    }
+ }
